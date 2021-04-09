@@ -1,0 +1,5 @@
+¿Qué se encontro al navegar en el sitio?
+- Repositorios: Se almacenan todos los archivos, el código y la documentación. Pueden ser públicos o privados.
+- Fork o bifurcación de un proyecto: Se emplea para crear una copia en un repositorio nuestro de un proyecto existente de otro autor, que sea público.
+                                     De esa forma podemos editarla y modificarla libremente, sin afectar el original.
+- Descargar proyectos de Github: Los que solo desean usar el código fuente del proyecto, pueden descargarlo en un paquete ZIP que contiene todos los archivos y documentos.
