@@ -1,5 +1,0 @@
-Anotar una hipótesis de por que un proyecto se visualiza y el otro no
-
-Un proyecto Público se le dan los permisos para poder visualizar y descargar todo lo que se ha realizado en el repositorio.
-
-Un proyecto privado solo cierta cantidad de personas pueden apreciar lo que se ve, sin embargo solo yo puedo editar lo que se sube a el mismo.
